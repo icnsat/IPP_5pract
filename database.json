@@ -1,0 +1,20 @@
+{
+    "contacts": [
+      {
+        "id": 1,
+        "name": "Bruce Wayne",
+        "phone": "+79092904542"
+      },
+      {
+        "id": 2,
+        "name": "Peter Parker",
+        "phone": "+79601770716"
+      },
+      {
+        "id": 3,
+        "name": "Ash Lynx",
+        "phone": "+79616304816"
+      }
+    ]
+  }
+  
